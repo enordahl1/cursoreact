@@ -1,0 +1,12 @@
+#footer {
+    height: 50px; /* the footer's total height */
+  }
+  
+  #footer-content {
+    background-color: #f3e5f5;
+    border: 1px solid #ab47bc;
+    position: fixed;
+    height: 32px; /* height + top/bottom paddding + top/bottom border must add up to footer height */
+    padding: 8px;
+    bottom: 0px;
+  }
