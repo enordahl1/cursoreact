@@ -5,7 +5,7 @@ export default class Footer extends React.Component {
         return (
             <>
                 <div id="footer">
-                    <div id="footer-content">Fresenius Netcare Desarrollo3 GmbH</div>
+                    <div id="footer-content">Fresenius Netcare GmbH</div>
                 </div>
             </>
         );
