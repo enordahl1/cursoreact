@@ -10,7 +10,8 @@ function App() {
   const listItems = [
     <li><a href="/#">Inicio</a></li>,
     <li><a href="/#">Sobre nosotros</a></li>,
-    <li><a href="/#">Contacto</a></li>
+    <li><a href="/#">Contacto</a></li>,
+    <li><a href="/#">Nuevo Menu</a></li>
   ];
 
   return (
