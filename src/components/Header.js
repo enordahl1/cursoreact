@@ -5,7 +5,7 @@ export default class Header extends React.Component {
     render() {
         return (
             <div class="header">
-                <h1>Fresenius Netcare Con intregración continua</h1>
+                <h1>Fresenius Netcare con intregración continua desde azure</h1>
             </div>
         );
     }
